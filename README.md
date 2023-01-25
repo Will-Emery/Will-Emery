@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will-Emery
 - 👀 I’m interested in front end and algorithms.
-- 🌱 I’m currently learning introduction system work and Angular.
+- 🌱 I’m currently learning about Software for AI Robotics
 - 📫 You can reach me at williamemery.b@gmail.com
 
 <!---
