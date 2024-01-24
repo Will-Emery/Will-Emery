@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Will-Emery
-- 👀 I’m interested in front-end and algorithms.
+- 👀 I’m interested in full-stack web development and Machine Learning.
 - 🌱 I’m currently learning about Web Programming and Artificial Intelligence
 - 📫 You can reach me at williamemery.b@gmail.com
 
