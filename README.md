@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will-Emery
 - 👀 I’m interested in full-stack web development and Machine Learning.
-- 🌱 I’m currently learning about Large Language Models and Ethical Hacking
+- 🌱 I'm currently learning about Retriaval Augmented Generation and furthering my Web Dev skills.
 - 📫 You can reach me at williamemery.b@gmail.com
 
 <!---
